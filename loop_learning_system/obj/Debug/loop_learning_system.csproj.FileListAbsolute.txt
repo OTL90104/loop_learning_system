@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\loop_learning_system\loop_learning_system\bin\Debug\loop_learning_system.exe.config
+C:\Users\USER\source\repos\loop_learning_system\loop_learning_system\bin\Debug\loop_learning_system.exe
+C:\Users\USER\source\repos\loop_learning_system\loop_learning_system\bin\Debug\loop_learning_system.pdb
+C:\Users\USER\source\repos\loop_learning_system\loop_learning_system\obj\Debug\loop_learning_system.csprojResolveAssemblyReference.cache
+C:\Users\USER\source\repos\loop_learning_system\loop_learning_system\obj\Debug\loop_learning_system.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\loop_learning_system\loop_learning_system\obj\Debug\loop_learning_system.exe
+C:\Users\USER\source\repos\loop_learning_system\loop_learning_system\obj\Debug\loop_learning_system.pdb
